@@ -5,7 +5,7 @@ import { motion } from "framer-motion";
 
 const skills = {
     languages: ["C/C++", "Python", "Java", "SQL", "JavaScript", "HTML/CSS"],
-    machineLearning: ["LSTM", "Deep Learning", "Pandas", "NumPy", "Matplotlib", "Scikit-Learn"],
+    machineLearning: ["Deep Learning", "Pandas", "NumPy", "Matplotlib", "Scikit-Learn"],
     tools: ["Git/GitHub", "Kaggle", "Streamlit", "VS Code", "Jupyter Notebook"],
     coursework: ["Data Structures & Algorithms", "OS", "DBMS", "OOP", "Computer Networks"]
 };
