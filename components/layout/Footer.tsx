@@ -9,7 +9,7 @@ export function Footer() {
                 <div className="flex flex-col items-center justify-center space-y-6">
                     <div className="flex space-x-8">
                         <a
-                            href="https://www.linkedin.com/in/pulkitbathwal-72875a280"
+                            href="https://www.linkedin.com/in/pulkit-bathwal-72875a280/"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="text-gray-400 hover:text-blue-400 transition-colors transform hover:scale-110"
@@ -25,11 +25,22 @@ export function Footer() {
                             <span className="sr-only">Email</span>
                         </a>
                         <a
-                            href="#"
+                            href="https://github.com/Pulkit320"
+                            target="_blank"
+                            rel="noopener noreferrer"
                             className="text-gray-400 hover:text-white transition-colors transform hover:scale-110"
                         >
                             <Github size={24} />
                             <span className="sr-only">GitHub</span>
+                        </a>
+                        <a
+                            href="https://www.kaggle.com/pulkit0320"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="text-gray-400 hover:text-blue-400 transition-colors transform hover:scale-110 font-bold font-mono"
+                        >
+                            K
+                            <span className="sr-only">Kaggle</span>
                         </a>
                     </div>
                     <p className="text-center text-xs text-gray-500 font-mono uppercase tracking-widest">

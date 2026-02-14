@@ -40,7 +40,7 @@ export function Overlay({ containerRef }: OverlayProps) {
                     </h1>
                     <div className="h-1 w-24 bg-blue-500 mx-auto mt-6 mb-6"></div>
                     <p className="text-xl md:text-2xl text-gray-300 font-light tracking-[0.2em] uppercase font-mono">
-                        Creative Developer
+                        Software Developer
                     </p>
                 </motion.div>
 
@@ -50,9 +50,9 @@ export function Overlay({ containerRef }: OverlayProps) {
                     className="absolute top-1/2 left-0 pl-10 md:pl-32 -translate-y-1/2 w-full max-w-4xl"
                 >
                     <h2 className="text-5xl md:text-8xl font-bold text-white leading-[0.9] tracking-tight">
-                        I BUILD <br />
+                        CORE <br />
                         <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-purple-500">
-                            DIGITAL<br />EXPERIENCES.
+                            COMPETENCIES<br />C++, Python, Java
                         </span>
                     </h2>
                 </motion.div>
@@ -63,9 +63,9 @@ export function Overlay({ containerRef }: OverlayProps) {
                     className="absolute top-1/2 right-0 pr-10 md:pr-32 -translate-y-1/2 w-full max-w-4xl text-right"
                 >
                     <h2 className="text-5xl md:text-8xl font-bold text-white leading-[0.9] tracking-tight">
-                        BRIDGING <br />
+                        SKILLS <br />
                         <span className="text-transparent bg-clip-text bg-gradient-to-l from-emerald-400 to-cyan-500">
-                            DESIGN &<br />ENGINEERING.
+                            React, Next.js,<br />Machine Learning
                         </span>
                     </h2>
                 </motion.div>

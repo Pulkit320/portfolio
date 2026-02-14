@@ -25,9 +25,17 @@ export function Contact() {
                             <Mail className="mr-3 group-hover:scale-110 transition-transform" size={24} />
                             <span className="font-mono text-sm">bathwalpulkit73@gmail.com</span>
                         </a>
-                        <a href="https://www.linkedin.com/in/pulkitbathwal-72875a280" target="_blank" rel="noopener noreferrer" className="flex items-center text-gray-200 hover:text-blue-400 transition-all bg-white/5 border border-white/10 hover:border-blue-500/50 px-8 py-4 rounded-full backdrop-blur-sm group">
+                        <a href="https://www.linkedin.com/in/pulkit-bathwal-72875a280/" target="_blank" rel="noopener noreferrer" className="flex items-center text-gray-200 hover:text-blue-400 transition-all bg-white/5 border border-white/10 hover:border-blue-500/50 px-8 py-4 rounded-full backdrop-blur-sm group">
                             <Linkedin className="mr-3 group-hover:scale-110 transition-transform" size={24} />
                             <span className="font-mono text-sm">LinkedIn Profile</span>
+                        </a>
+                        <a
+                            href="/resume.pdf"
+                            download="Pulkit_Resume.pdf"
+                            className="flex items-center text-gray-200 hover:text-blue-400 transition-all bg-white/5 border border-white/10 hover:border-blue-500/50 px-8 py-4 rounded-full backdrop-blur-sm group"
+                        >
+                            <span className="font-mono text-sm font-bold mr-2">CV</span>
+                            <span className="font-mono text-sm">Download Resume</span>
                         </a>
                     </div>
 
