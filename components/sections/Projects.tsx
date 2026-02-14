@@ -5,19 +5,19 @@ import { Github, ExternalLink, ArrowUpRight } from "lucide-react";
 
 const projects = [
     {
-        title: "Market Tracer",
-        category: "FinTech / AI",
-        description: "LSTM-based model to predict short-term stock market direction. Features live data ingestion via Yahoo Finance and a Streamlit dashboard for real-time inference.",
-        tags: ["Python", "LSTM", "Streamlit"],
-        github: "#",
+        title: "Market Tracer ML",
+        category: "Machine Learning",
+        description: "LSTM-based model to predict short-term stock market direction. Backend implementation focused on data ingestion, model training, and inference logic.",
+        tags: ["Python", "LSTM", "TensorFlow"],
+        github: "https://github.com/Pulkit320/Market_tracker_ML",
         demo: "#"
     },
     {
-        title: "Estate Valuation",
-        category: "Data Science",
-        description: "Predictive model estimating house prices using Linear Regression. Analyzed historical data to establish correlations and visualized trends.",
-        tags: ["Python", "Sklearn", "Pandas"],
-        github: "#",
+        title: "Market Tracer Extension",
+        category: "Web Development",
+        description: "React-based frontend dashboard for Market Tracer. Visualizes stock predictions and confidence intervals with a responsive and interactive UI.",
+        tags: ["React", "JavaScript", "Tailwind"],
+        github: "https://github.com/Pulkit320/market-scope",
         demo: "#"
     },
     {
@@ -25,7 +25,7 @@ const projects = [
         category: "Web Development",
         description: "High-performance scrollytelling experience built with Next.js, Framer Motion, and HTML5 Canvas.",
         tags: ["Next.js", "Framer Motion", "Canvas"],
-        github: "#",
+        github: "https://github.com/Pulkit320/portfolio",
         demo: "#"
     }
 ];
