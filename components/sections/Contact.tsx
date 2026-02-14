@@ -15,7 +15,7 @@ export function Contact() {
                     viewport={{ once: true }}
                     className="text-center bg-black/40 backdrop-blur-md border border-white/10 p-12 rounded-2xl max-w-4xl mx-auto"
                 >
-                    <h2 className="text-3xl font-bold text-white mb-8 font-display uppercase tracking-wider">Get In Touch</h2>
+                    <h2 className="text-3xl font-bold text-white mb-8 font-display uppercase tracking-wider">Contact Information</h2>
                     <p className="text-xl text-gray-300 mb-12 max-w-2xl mx-auto font-light leading-relaxed">
                         I&apos;m currently looking for new opportunities. Whether you have a question or just want to say hi, I&apos;ll try my best to get back to you!
                     </p>
