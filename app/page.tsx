@@ -3,6 +3,7 @@
 import { useRef } from "react";
 import { Navbar } from "@/components/layout/Navbar";
 import { Projects } from "@/components/sections/Projects";
+import { Skills } from "@/components/sections/Skills";
 import { Contact } from "@/components/sections/Contact";
 import { Footer } from "@/components/layout/Footer";
 import { ScrollyCanvas } from "@/components/ui/ScrollyCanvas";
@@ -23,6 +24,7 @@ export default function Home() {
 
       {/* Content after scroll */}
       <div className="relative z-10 bg-[#121212]">
+        <Skills />
         <Projects />
         <Contact />
         <Footer />
