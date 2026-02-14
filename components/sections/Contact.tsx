@@ -17,7 +17,7 @@ export function Contact() {
                 >
                     <h2 className="text-3xl font-bold text-white mb-8 font-display uppercase tracking-wider">Contact Information</h2>
                     <p className="text-xl text-gray-300 mb-12 max-w-2xl mx-auto font-light leading-relaxed">
-                        I&apos;m currently looking for new opportunities. Whether you have a question or just want to say hi, I&apos;ll try my best to get back to you!
+                        I&apos;m currently looking for new opportunities. Feel free to reach out anytime — I’m always happy to connect and usually reply pretty quickly!
                     </p>
 
                     <div className="flex flex-col md:flex-row justify-center items-center gap-8 mb-12">
