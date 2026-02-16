@@ -30,7 +30,7 @@ export function Contact() {
                             <span className="font-mono text-sm">LinkedIn Profile</span>
                         </a>
                         <a
-                            href="/resume.pdf"
+                            href="/resume.pdf?v=2"
                             download="Pulkit_Resume.pdf"
                             className="flex items-center text-gray-200 hover:text-blue-400 transition-all bg-white/5 border border-white/10 hover:border-blue-500/50 px-8 py-4 rounded-full backdrop-blur-sm group"
                         >
